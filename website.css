@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.offer{
+  background-color: rgb(28, 28, 145);
+  color: white;
+  font-size: larger;
+  text-align: center;
+  align-items: center;
+  height: 40px;
+}
+/* <!-- ------------------------------Nav bar1----------------------------- --> */
+.nav1{
+    color: gray;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    width: auto;
+    margin: 10px 0px;
+    border: 1px solid gray;
+}
+.logo1{
+    margin-right: 100px;
+}
+#bor{
+    border: 2px solid green;
+}
+.menu1{
+    margin-left: 350px;
+}
+.logo1 ul li{
+    display: inline-block;
+    float: left;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+.menu1 ul li{
+    display: inline-block;
+    float: left;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+#border{
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.menu1 ul li{
+    display: inline-block;
+    float: right;
+    justify-content: space-between;
+}
+
+
+/* -----------------------------------------Nav bar2-------------------------- */
+.d-flex{
+    background-color: rgb(149, 224, 149);
+    color: white;
+}
+
+/* <!-- -------------------------------------------Image Slider ------------------------------------ --> */
+.container{
+    text-align: center;
+    padding-top: 50px;
+}
+.container h1{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+}
+
+-------------------Style the Footer1 --------------- */
+.footer{
+    font-size: 300px;
+    width: 100%;
+    color: black;
+    float: left;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+
+/* <!-- ------------------------Nav2 Section -------------------- --> */
+.nav2{
+    font-size: 20px;
+    width: 100%;
+    color: black;
+    float: left;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+
+/* ---------------------Nav2 columns--------------------------- */
+.column1{
+    width: 50%;
+    float: left;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.column1 video{
+  height: 550px;
+  width: 600px;
+}
+.column2{
+    width: 50%;
+    float: right;
+    padding-right: 30px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.column2 h1{
+    font-size: 35px;
+}
+.column2 p{
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+
+/* ----------------------------------- */
+.column1a{
+    width: 50%;
+    float: right;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.column1a video{
+  height: 550px;
+  width: 600px;
+}
+.column2a{
+    width: 50%;
+    float: left;
+    padding-right: 30px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.column2a h1{
+    font-size: 35px;
+}
+.column2a p{
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+
+/* 
+
+----------------------------sumamry----------------------------- */
+.container1{
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
